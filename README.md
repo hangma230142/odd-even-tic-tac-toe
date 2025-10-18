@@ -43,7 +43,9 @@ Architecture: Client–Server (real-time bi-directional data flow)
 
 ## Getting Started
 ### Clone this repository
+
 git clone https://github.com/hangma230142/odd-even-tic-tac-toe.git
+
 cd odd-even-tic-tac-toe
 
 ### Install dependencies
