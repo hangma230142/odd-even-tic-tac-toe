@@ -55,7 +55,7 @@ node index.js
 ### Open the game
 
 Go to http://localhost:3000
- in two browser windows or devices to play as Odd and Even players.
+in two browser windows or devices to play as Odd and Even players.
 
 ## Project Structure
 odd-even-tic-tac-toe
